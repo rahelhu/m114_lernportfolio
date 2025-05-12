@@ -1,0 +1,18 @@
+### Primärspeicher
+##### 1. Welche Speicherkapazität in kiB (Hinweis: 1kiB=1024B) besitzt ein Arbeitsspeicher
+mit 12-Bit-Adressbus und 16-Bit-Datenbus?
+
+- **Adressbus:** 12 Bit → 4096 Speicherplätze
+- **Datenbus:** 16 Bit → 2 Byte pro Speicherplatz
+- **Rechnung:** 4096 × 2 = 8192 Byte = **8 kiB**
+
+**Antwort:** Der Speicher hat **8 kiB** Kapazität.
+
+
+
+### Taktsignal
+##### 2. Zwei Gerate sind mit einer seriellen Leitung und einer Leitung für das Taktsignal
+von 1MHz verbunden.
+a) Wie viele Bytes können pro Sekunde übertragen werden?
+b) Wie viele Bytes pro Sekunde können übertragen werden, wenn die Verbindung der beiden Geräte nicht seriell, sondern 8 Bit-parallel wäre?
+
