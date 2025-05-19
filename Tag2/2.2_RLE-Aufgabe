@@ -1,0 +1,10 @@
+Farbe kann sich nicht mehr als siebenmal wiederholen:
+= 0..7 = 3 Bit oder 000 bis 111
+
+
+Dann so vorgehen:
+010 100 011 …
+ 2     4       3   …
+
+
+Dargestellt wird der grossbuchstabe A
