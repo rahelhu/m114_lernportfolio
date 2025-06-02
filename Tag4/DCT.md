@@ -1,5 +1,4 @@
-## 1. Was bringt mehr Speicherersparnis? Ein "UHD-1 4k" Bild anstatt in Farben (RGB) in Graustufen (Y) abzuspeichern oder das "UHD-1 4k" Bild auf ein
-"HD720" Bild herunter zu skalieren?
+## 1. Was bringt mehr Speicherersparnis? Ein "UHD-1 4k" Bild anstatt in Farben (RGB) in Graustufen (Y) abzuspeichern oder das "UHD-1 4k" Bild auf ein "HD720" Bild herunter zu skalieren?
 
 Herunterskalieren auf HD720 spart mehr Speicher als nur in Graustufen speichern.
 
