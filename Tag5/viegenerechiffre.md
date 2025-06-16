@@ -30,4 +30,6 @@ TSHBE LVO
 
 **Was stellen wir fest? Funktioniert der "Hack" aus Aufgabe 3 immer noch?**
 
-Nein, der Hack (Cyphertext-Only) funktioniert nicht mehr
+Nein, der Hack (Cyphertext-Only) funktioniert nicht mehr.
+
+Weil sich das Passwort nicht immer wieder wiederholt (weil Lorem Ipsum so lang ist). So kann man den Schlüssel nicht feststellen
