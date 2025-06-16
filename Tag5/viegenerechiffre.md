@@ -17,14 +17,17 @@ LOUIS XIV
 
 ## 4. Klartext aus Aufgabe 3 neu verschlüsseln mit Key 
 **Key**
+
 LoremipsumdolorsitametconsectetueradipiscingelitAeneancommodoligulaegetdolorA
 eneanmassaCumsociisnatoquepenatibusetmagnisdisparturientmontesnasceturridicul
 usmusDone
 
 **Neu verschlüsselt**:
+
 OSI WFIPL VUQ WNV VK QJT MINUGRJWV LGAQMVRLO OC JGLRT SSVX VMRP ZH UOSQB LQS
 UGWSE QOX CHRPF VRRRRNHZG FWUPOZVBGCVRVG NBPOJGMRDXVF OFH XUNKA CFGIFZBRKYE
 TSHBE LVO
 
 **Was stellen wir fest? Funktioniert der "Hack" aus Aufgabe 3 immer noch?**
+
 Nein, der Hack (Cyphertext-Only) funktioniert nicht mehr
